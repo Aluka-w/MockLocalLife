@@ -1,0 +1,7 @@
+{
+  "name": "bin.wang",
+  "version": "0.1.1",
+  "scripts": {
+    "mock": "json-server mock.js --port 3006 --routes ./routes.json"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "/slides": "/slides",
+  "/categories": "/categories",
+  "/categories/:id": "/categories/:id",
+  "/categories/:id/shops": "/shops/:id",
+  "/shops?item=:categoryId": "/shops/:id"
+}
